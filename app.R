@@ -12,7 +12,7 @@ ui <- fluidPage(
   br(),
   p("(2) Prepare a dish from your country."),
   br(),
-  p("(3) Bring said dish to 2717 John St. after 6 pm."),
+  p("(3) Bring said dish to 324C Olomana St after 5 pm."),
   br(),
   p("(4) If you adorn your dish with flags, interpretive dance, or other nationalistic sentiment, people will like you more."),
   sidebarLayout(
